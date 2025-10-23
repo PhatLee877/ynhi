@@ -80,7 +80,7 @@ Instance.new("UICorner", sendBtn)
 
 -- 🔹 Footer
 local footer = Instance.new("TextLabel")
-footer.Text = "Ynhi Script| Enjoy it"
+footer.Text = "Meow Script| Enjoy it"
 footer.Font = Enum.Font.FredokaOne
 footer.TextSize = 14
 footer.TextColor3 = Color3.fromRGB(180, 180, 180)
